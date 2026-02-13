@@ -1,10 +1,10 @@
 # Bayesian Machine Learning with STAN
 
-Advanced coursework in Bayesian inference and probabilistic programming using STAN for financial portfolio optimization and multivariate statistical modeling.
+Advanced coursework in Bayesian inference and probabilistic programming using STAN for optimization and multivariate statistical modeling.
 
 ## 📊 Overview
 
-This repository contains implementations of sophisticated Bayesian models for analyzing financial time series data, with a focus on portfolio optimization and risk modeling. The work demonstrates expertise in:
+This repository contains implementations of sophisticated Bayesian models for analyzing s data, with a focus on portfolio optimization and risk modeling. The work demonstrates expertise in:
 
 - **Probabilistic Programming:** STAN model development with cmdstanpy
 - **Prior Selection:** Normal-Inverse-Wishart and LKJ correlation priors
@@ -190,19 +190,14 @@ plt.hist2d(posterior_samples['mu[1]'], posterior_samples['mu[2]'])
 
 This coursework demonstrates proficiency in:
 
-✅ **Bayesian Inference Theory:** Understanding of conjugate priors, posterior updating, predictive distributions  
-✅ **Probabilistic Programming:** Writing and debugging complex STAN models  
-✅ **MCMC Diagnostics:** Interpreting convergence metrics, identifying sampling issues  
-✅ **Model Validation:** Prior/posterior predictive checks, sensitivity analysis  
-✅ **Financial Modeling:** Portfolio theory, covariance estimation, risk quantification  
-✅ **Computational Statistics:** Efficient sampling algorithms, numerical stability  
+**Bayesian Inference Theory:** Understanding of conjugate priors, posterior updating, predictive distributions  
+**Probabilistic Programming:** Writing and debugging complex STAN models  
+**MCMC Diagnostics:** Interpreting convergence metrics, identifying sampling issues  
+**Model Validation:** Prior/posterior predictive checks, sensitivity analysis  
+**Financial Modeling:** Portfolio theory, covariance estimation, risk quantification  
+**Computational Statistics:** Efficient sampling algorithms, numerical stability  
 
 ## 🎯 Applications
-
-**Finance:**
-- Portfolio optimization under uncertainty
-- Risk modeling with parameter uncertainty
-- Asset allocation with Bayesian updating
 
 **General Statistics:**
 - Multivariate normal modeling
